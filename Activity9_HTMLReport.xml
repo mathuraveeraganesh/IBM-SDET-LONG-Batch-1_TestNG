@@ -1,0 +1,8 @@
+<suite name="HTMLReport">
+	<test name="HTML_Report">
+		<classes name="HTML Report">
+			<class name="testNGTests.Activity9"/>
+		</classes>
+	</test>
+
+</suite>

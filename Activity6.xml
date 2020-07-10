@@ -1,0 +1,11 @@
+<suite name="suite">
+	
+	<test name="test">
+		<parameter name="User" value="admin"/>
+		<parameter name="pwd" value="password"/>
+		<classes>
+			<class name="testNGTests.Activity6"/>
+		</classes>
+	</test>
+
+</suite>
